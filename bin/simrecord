@@ -1,6 +1,5 @@
 #!/bin/bash
 
-EXTENSION="mp4"
-FILENAME="$HOME/Desktop/Simulator Screen Recording - $(date '+%Y-%m-%d at %H.%M.%S').$EXTENSION"
+FILENAME="$HOME/Desktop/Simulator Screen Recording - $(date '+%Y-%m-%d at %H.%M.%S').mp4"
 
-xcrun simctl io booted recordVideo "$FILENAME" --type $EXTENSION
+xcrun simctl io booted recordVideo "$FILENAME"
