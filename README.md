@@ -1,12 +1,9 @@
-<img src="https://cdn.rawgit.com/joeblau/simrecord/master/.github/simrecord.svg"/>
+# simrecord
 
-<p align="center">
-  <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/platform-macOS-brightgreen.svg?style=flat-square"/></a>
-  <a href="https://github.com/joeblau/simrecord/releases"><img src="https://img.shields.io/github/downloads/joeblau/simrecord/total.svg?style=flat-square"/></a>
-  <a href="https://github.com/joeblau/simrecord/blob/master/LICENSE"><img src="https://img.shields.io/github/license/joeblau/simrecord.svg?style=flat-square"/></a>
-</p>
+[![](https://img.shields.io/badge/platform-macOS-brightgreen.svg?style=flat-square)](https://www.apple.com/macos/) [![](https://img.shields.io/github/downloads/joeblau/simrecord/total.svg?style=flat-square)](https://github.com/joeblau/simrecord/releases) [![](https://img.shields.io/github/license/joeblau/simrecord.svg?style=flat-square)](https://github.com/joeblau/simrecord/blob/master/LICENSE)
 
-simrecord records your iPhone Simualtor to a video on your desktop
+
+`simrecord` records your iPhone Simualtor to a video on your desktop
 
 ## Install
 
